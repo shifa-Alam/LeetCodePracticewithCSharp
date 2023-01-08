@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Sum", "3Sum\3Sum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{089692DE-D730-444C-9C72-107A23FDCDCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates from Sorted Array", "RemoveDuplicates from Sorted Array\RemoveDuplicates from Sorted Array.csproj", "{70642239-586B-47AB-BB70-C7AF62945F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Element", "Remove Element\Remove Element.csproj", "{BB64B0E6-879D-40A0-9973-3ECE246C00B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{089692DE-D730-444C-9C72-107A23FDCDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{089692DE-D730-444C-9C72-107A23FDCDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{089692DE-D730-444C-9C72-107A23FDCDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70642239-586B-47AB-BB70-C7AF62945F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70642239-586B-47AB-BB70-C7AF62945F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70642239-586B-47AB-BB70-C7AF62945F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70642239-586B-47AB-BB70-C7AF62945F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB64B0E6-879D-40A0-9973-3ECE246C00B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB64B0E6-879D-40A0-9973-3ECE246C00B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB64B0E6-879D-40A0-9973-3ECE246C00B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB64B0E6-879D-40A0-9973-3ECE246C00B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
